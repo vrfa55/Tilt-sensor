@@ -10,7 +10,7 @@ To complete this project, you will need:
 - Breadboard
 - Tilt sensor
 - Motor (any DC motor)
-- Motor driver (L293D)
+- Motor driver 
 - Jumper wires
 - USB cable (for programming the Arduino)
 
